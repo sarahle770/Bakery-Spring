@@ -1,0 +1,3 @@
+com.bakery.BakeryConfiguration=org.springframework.stereotype.Component
+com.bakery.Oven=org.springframework.stereotype.Component
+com.bakery.Worker=org.springframework.stereotype.Component
